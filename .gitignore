@@ -1,0 +1,12 @@
+package-lock.json
+yarn.lock
+/node_modules
+.env
+/dist
+yarn-error.log
+.DS_Store
+/.next/
+/out/
+/build
+.DS_Store
+*.pem
